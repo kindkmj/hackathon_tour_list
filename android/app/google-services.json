@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952162103925",
+    "project_id": "tour-list-84457",
+    "storage_bucket": "tour-list-84457.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952162103925:android:87b05d635cef0ec7c47e3c",
+        "android_client_info": {
+          "package_name": "com.example.tour_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1CVIwWbi3cqWxB_rZjDvyClyRWIZtDK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
