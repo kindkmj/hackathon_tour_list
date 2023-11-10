@@ -145,10 +145,10 @@ class AppLocalization {
     );
   }
 
-  String get transportation {
+  String get vehicle {
     return Intl.message(
-      'transportation',
-      name: 'transportation',
+      'vehicle',
+      name: 'vehicle',
     );
   }
 

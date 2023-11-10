@@ -32,8 +32,8 @@ class MessageLookup extends MessageLookupByLibrary {
         'title': MessageLookupByLibrary.simpleMessage('Title'),
         'thema': MessageLookupByLibrary.simpleMessage('Thema'),
         'region': MessageLookupByLibrary.simpleMessage('Region'),
-        'transportation':
-            MessageLookupByLibrary.simpleMessage('Transportation'),
+        'vehicle':
+            MessageLookupByLibrary.simpleMessage('Vehicle'),
         'date': MessageLookupByLibrary.simpleMessage('Date'),
         'price': MessageLookupByLibrary.simpleMessage('Price'),
         'people': MessageLookupByLibrary.simpleMessage('People'),

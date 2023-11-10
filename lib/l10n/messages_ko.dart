@@ -33,7 +33,7 @@ class MessageLookup extends MessageLookupByLibrary {
         'title': MessageLookupByLibrary.simpleMessage('제목'),
         'thema': MessageLookupByLibrary.simpleMessage('테마'),
         'region': MessageLookupByLibrary.simpleMessage('지역'),
-        'transportation': MessageLookupByLibrary.simpleMessage('이동 수단'),
+        'vehicle': MessageLookupByLibrary.simpleMessage('이동 수단'),
         'date': MessageLookupByLibrary.simpleMessage('날짜'),
         'price': MessageLookupByLibrary.simpleMessage('가격'),
         'people': MessageLookupByLibrary.simpleMessage('인원'),

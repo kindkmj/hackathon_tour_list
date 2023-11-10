@@ -162,7 +162,7 @@ class _CreateClassPageState extends State<CreateClassPage> {
                     SizedBox(
                       width: 50,
                       child: TextWidget(
-                        title: AppLocalization.of(context).transportation,
+                        title: AppLocalization.of(context).vehicle,
                         fontSize: 10,
                       ),
                     ),
@@ -499,7 +499,7 @@ class _CreateClassPageState extends State<CreateClassPage> {
               mainAxisSize: MainAxisSize.min,
               children: [
                 TextWidget(
-                  title: AppLocalization.of(context).transportation,
+                  title: AppLocalization.of(context).vehicle,
                   fontWeight: FontWeight.bold,
                   fontSize: 30,
                 ),
