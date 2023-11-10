@@ -12,7 +12,20 @@
           "package_name": "com.example.tour_list"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "952162103925-k9hb7da7ibh8ru0qblq5314of72j9k9l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tour_list",
+            "certificate_hash": "5c3a8e2019000f6af419542699a5a190283ceb3c"
+          }
+        },
+        {
+          "client_id": "952162103925-jsfhvq796l0fuug4i8m45ca62bvq0nbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyA1CVIwWbi3cqWxB_rZjDvyClyRWIZtDK8"
@@ -20,7 +33,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952162103925-jsfhvq796l0fuug4i8m45ca62bvq0nbc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "952162103925-cem1ldhvauuhfg9fb05cg2t6frrbbq67.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tourList"
+              }
+            }
+          ]
         }
       }
     }
